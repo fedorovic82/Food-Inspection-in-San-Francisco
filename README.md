@@ -1,4 +1,4 @@
-# Food Inpections in San Francisco
+# Food Inspection in San Francisco
 
 In the past, food inspection was done in a reactive manner whereby officers waited for reports of joints with possible non-compliance. Currently, some cities in the united states e.g. San Francisco, are implementing a technologically driven approach to food  inspection to try and predict food establishments that are more likely to be non-compliant to food safety regulation. 
 
