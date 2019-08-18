@@ -4,5 +4,6 @@
 
 To promote health, stakeholders in the healthcare industry need to continuously innovate to make this process more efficient. In food inspection, it's proven that technology can be used to predict a likely critical violation through the use of data analytics. This instead of inspecting every joint blindly given the lack of enough manpower for this.
 
-Through the data in 2018 the Moderate Risk business decreased by 37% and the Low Risk Business increased by 20%. Because the inspectors knew where to locate the High Risk food establishment for physical inspection, the results of this category increased firmly last year. That proves the available data that is used to predict critical violation helped in San Francisco to increase health. 
+Through the data in 2018 the Moderate Risk business decreased by 37% and the Low Risk Business increased by 20%. Because the inspectors knew where to locate the High Risk food establishment for physical inspection, the results of this category increased firmly last year. That proves the available data that is used to predict critical violation helped in San Francisco to increase health.
+
 ![alt text](https://cdn.dribbble.com/users/1946728/screenshots/4010195/dribble_uploads17.jpg)
